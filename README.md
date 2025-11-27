@@ -45,10 +45,13 @@ Sou formado em Análise e Desenvolvimento de Sistemas.
 
 <p align="center">
   <img
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusleonardo&layout=compact&theme=radical&langs_count=8"
-    alt="Linguagens mais usadas"
-  />
-   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=mateusleonardo&show_icons=true&theme=radical"/>
+  width="40%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusleonardo&layout=compact&theme=radical&langs_count=8&locale=pt-br"
+  alt="Linguagens mais usadas"
+/>
+<img
+  width="40%"
+  src="https://github-readme-stats.vercel.app/api?username=mateusleonardo&show_icons=true&theme=radical&locale=pt-br"
+/>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mateusleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="mateusleonardo" /> </p>
