@@ -11,25 +11,25 @@ Sou formado em Análise e Desenvolvimento de Sistemas.
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,scss,bootstrap" alt="Frontend Skills"/>
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,php,laravel" alt="Backend Skills"/>
 </p>
 
 ### Bancos de dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Database Skills"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="Database Skills"/>
 </p>
 
 ### Ferramentas & Design
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,vscode,postman" alt="Tools & Design"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,visualstudio,postman" alt="Tools & Design"/>
 </p>
 
 ## 📬 Entre em contato
