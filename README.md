@@ -35,10 +35,10 @@ Sou formado em Análise e Desenvolvimento de Sistemas.
 ## 📬 Entre em contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mateusleonardo" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-leonardo-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seu-email@example.com">
+  <a href="mailto:mateus_leonardo1997@hotmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
 </p>
