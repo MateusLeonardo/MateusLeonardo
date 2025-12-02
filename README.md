@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Mateus Leonardo
 
-Sou formado em Análise e Desenvolvimento de Sistemas.
+Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER - Centro Universitário Internacional.
 
 ## 🚀 Hoje estou
 
