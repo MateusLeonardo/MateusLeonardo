@@ -54,4 +54,4 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER - Centro Univ
   src="https://github-readme-stats.vercel.app/api?username=mateusleonardo&show_icons=true&theme=radical&locale=pt-br"
 />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mateusleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="mateusleonardo" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=mateusleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="mateusleonardo" /> </p> -->
