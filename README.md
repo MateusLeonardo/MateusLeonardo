@@ -35,9 +35,9 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER - Centro Univ
 ## 📬 Entre em contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mateus-leonardo-dev" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/mateus-leonardo-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
+  </a> -->
   <a href="mailto:mateus_leonardo1997@hotmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
