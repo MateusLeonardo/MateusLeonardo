@@ -17,7 +17,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER - Centro Univ
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,cs,dotnet" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel" alt="Backend Skills"/>
 </p>
 
 ### Bancos de dados
