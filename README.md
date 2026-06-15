@@ -4,7 +4,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER - Centro Univ
 
 ## 🚀 Hoje estou
 
-- Estudando mensageria e arquitetura de microsserviços
+- Estudando Flutter/Dart
 
 ## 🛠️ Tecnologias
 
